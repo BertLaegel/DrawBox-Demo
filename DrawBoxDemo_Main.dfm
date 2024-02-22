@@ -290,8 +290,8 @@
     OnClick = Close_BtnClick
   end
   object DrawBox: TDrawBox
-    Left = 1
-    Top = 48
+    Left = 0
+    Top = 50
     Width = 580
     Height = 580
     Font.Charset = DEFAULT_CHARSET
